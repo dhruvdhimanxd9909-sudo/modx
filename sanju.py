@@ -31,7 +31,6 @@ def first_step():
     print("\033[1;32m JOIN OUR WHATSAPP CHANNEL ✅ \033[0m\n")
     print("\033[1;32m KEY APKO GROUP SA MILY GI ✅ \033[0m\n")
     print("[!] Pehle WhatsApp Channel par join karo.")
-    print(f"[+] Channel Link: {channel_link}\n")
 
     # Yeh direct WhatsApp channel open karega
     os.system(f"xdg-open {channel_link}")
